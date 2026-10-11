@@ -10,6 +10,6 @@
    (or your own) while demonstrating; real payments will go to it.
 ------------------------------------------------------------------ */
 window.UPI_CONFIG = {
-  vpa:  "sonu.409@superyes",
+  vpa:  "8051602402@ybl",
   name: "Flipkart Demo Store"
 };
